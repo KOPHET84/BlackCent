@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Github Pages: https://kophet84.github.io/BlackCent/
+
 ## Available Scripts
 
 In the project directory, you can run:
