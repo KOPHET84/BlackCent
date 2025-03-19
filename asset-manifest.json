@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BlackCent/static/css/main.963cce2e.css",
+    "main.js": "/BlackCent/static/js/main.4408b282.js",
+    "static/js/453.15d099b8.chunk.js": "/BlackCent/static/js/453.15d099b8.chunk.js",
+    "index.html": "/BlackCent/index.html",
+    "main.963cce2e.css.map": "/BlackCent/static/css/main.963cce2e.css.map",
+    "main.4408b282.js.map": "/BlackCent/static/js/main.4408b282.js.map",
+    "453.15d099b8.chunk.js.map": "/BlackCent/static/js/453.15d099b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.963cce2e.css",
+    "static/js/main.4408b282.js"
+  ]
+}
